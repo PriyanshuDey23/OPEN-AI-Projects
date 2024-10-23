@@ -1,0 +1,4 @@
+aiogram # Modern and fully asynchronous framework for Telegram Bot API
+openai==0.28
+python-dotenv # Load the screat key
+# python==3.7
